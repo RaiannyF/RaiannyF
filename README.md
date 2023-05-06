@@ -4,9 +4,9 @@
 </head>
 
 <body>
-    <h1>Hi, I'm Raianny</h1>
-    <h2> - 🌱 I’m currently studying Computer Science </h2>
-
+    <div>
+        <h1>Hi, I'm Raianny</h1>
+    </div>
 <div>
     <h3>Languages:</h3> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
